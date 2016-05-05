@@ -76,7 +76,7 @@ public class VenueListActivity extends ListActivity {
                 String url = ((TextView) view.findViewById(R.id.url))
                         .getText().toString();
 
-                // Starting single contact activity
+                // Starting single venue activity
                 Intent in = new Intent(getApplicationContext(),
                         SingleVenueActivity.class);
                 in.putExtra(TAG_NAME, name);
