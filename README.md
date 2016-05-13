@@ -30,4 +30,8 @@ The following classes contains the workflow:
 
 <b>SingleVenueActivity:</b> This activity shows the details of each venue like its address, rating, image if available and also link to its website.<br/>
 	
+<b>Screenshots:</b>
 	
+![alt text][screenshots]	
+	
+[screenshots]: https://cloud.githubusercontent.com/assets/12607939/15254330/2d168fa8-192e-11e6-976c-ad162c31cf34.jpg
