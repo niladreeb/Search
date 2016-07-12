@@ -30,8 +30,8 @@ public class MainActivity extends AppCompatActivity {
     private static String code;
 
     private static String BASE_URL = "https://api.foursquare.com/v2/venues/explore?";
-    private String CLIENT_ID = "3KKAOPJTTUOWYWTCPCWO10KSHWUD5KMGL1DZPVTVFNVJM2LU";
-    private String CLIENT_SECRET = "CCQ1PPMVIYZGLFXV4UPO1ATBAA2UQQBMODLLI03AV0XELDXV";
+    private String CLIENT_ID = "client_id"; //generate from api
+    private String CLIENT_SECRET = "client_secret";  //generate from api
 
     private static final String TAG_META = "meta";
     private static final String TAG_CODE = "code";
